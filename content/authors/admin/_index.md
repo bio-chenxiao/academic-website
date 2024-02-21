@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 陈 啸
+title: 陈啸
 
 # Name pronunciation (optional)
 name_pronunciation: Chen Xiao
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,20 +25,20 @@ organizations:
     url: http://www.cpu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include drug discovery and its pharmacological and toxicological mechanisms, as well as aquatic environmental science.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Pharmacology
+  - Toxicology
+  - Environmental Science
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Pharmacognosy
       institution: China Pharmaceutical University
-      year: 2027
+      year: 2023-
     - course: MAg in Agricultural Engineering and Information Technology
       institution: Zhejiang Ocean University
       year: 2023
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chen Xiao is a PhD Student of Pharmacognosy at China Pharmaceutical University's School of Traditional Chinese Pharmacy. His research interests include drug discovery and its pharmacological and toxicological mechanisms, as well as aquatic environmental science.
 {style="text-align: justify;"}
