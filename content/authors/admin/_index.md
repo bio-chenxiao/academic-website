@@ -51,19 +51,19 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Perl
         description: ''
-        percent: 80
+        percent: 70
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Bioinformatics
         description: ''
-        percent: 100
+        percent: 60
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Mass
         description: ''
-        percent: 40
+        percent: 60
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chen Xiao is a PhD Student of Pharmacognosy at China Pharmaceutical University's School of Traditional Chinese Pharmacy. His research interests include drug discovery and its pharmacological and toxicological mechanisms, as well as aquatic environmental science.
+Chen Xiao is a PhD student in Pharmacognosy at the School of Traditional Chinese Pharmacy, China Pharmaceutical University. His research interests include drug discovery and its pharmacological and toxicological mechanisms, as well as aquatic environmental science.
 {style="text-align: justify;"}
